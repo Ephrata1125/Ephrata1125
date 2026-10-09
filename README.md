@@ -37,7 +37,9 @@ A university platform concept for sharing course materials, assignments, and ann
 
 ## Connect With Me
 
-📧 Email: efrahatenok18@gmail.com
+- 📧 **Email:** efrahatenok18@gmail.com
+- 📸 **Instagram:** [@your_instagram](https://www.instagram.com/)
+- ✈️ **Telegram:** [@eepphratam](https://t.me/eepphratam)
 
 ---
 
